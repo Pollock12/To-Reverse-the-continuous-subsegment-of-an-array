@@ -1,0 +1,1 @@
+# To-Reverse-the-continuous-subsegment-of-an-array
